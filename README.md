@@ -22,4 +22,5 @@ Displays:
 
 Clone the repository
 
-git clone https://github.com/PratikBankar2160/weather-app.git
+git clone https://github.com/PratikBankar2160/CloudPoint-APIs-based-Weather-Application.git
+
