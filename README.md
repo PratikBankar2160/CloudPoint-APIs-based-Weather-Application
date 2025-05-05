@@ -22,4 +22,4 @@ Displays:
 
 Clone the repository
 
-https://github.com/pratikbankar2160@gmail.com/weather-app.git
+git clone https://github.com/PratikBankar2160/weather-app.git
